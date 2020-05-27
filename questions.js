@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "Usury is a large problem in our society, and it must be fixed by nationalizing banks and loans.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "Governmental intervention in the economy is a necessity to protect consumers.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -27,34 +27,16 @@ questions = [
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "The free market is necessary for faster technological progress.",
         "effect": {
             "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
-        "effect": {
-            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 10
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
-        "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "Money must eventually be eliminated.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,16 +45,7 @@ questions = [
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "Tarrifs are necessary to encourage local production.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,16 +54,16 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "All forms of Socialism are inherently flawed.",
         "effect": {
             "econ": -10,
             "dipl": 0,
             "govt": 0,
-            "scty": -5
+            "scty": 0
         }
     },
     {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
+        "question": "Inheiritance gives an unfair advantage to its benefactors.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -99,9 +72,36 @@ questions = [
         }
     },
     {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "The free market unfairly distributes resources.",
         "effect": {
-            "econ": -10,
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The love of money is the root of all evil.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Public utilities should be publicly owned.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The means of production belong to the workers.",
+        "effect": {
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
